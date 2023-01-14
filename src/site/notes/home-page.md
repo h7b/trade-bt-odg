@@ -5,14 +5,18 @@
 
 # Home Page
 
-Published url: https://tradebt.netlify.app
+Published url: [trade-bt (on Netlify)](https://tradebt.netlify.app) [trade-bt (on Cloudflare Pages)](https://tradebt.pages.dev/)
 
-This repo is generated from [Template](https://github.com/oleeskild/digitalgarden).
+This website is generated from
+- [Template DigitalGarden](https://github.com/oleeskild/digitalgarden) when being deployed via Netlify
+- [Template GithubPublisher](https://github.com/ObsidianPublisher/publisher-template-netlify) when being deployed via Cloudflare Pages
 
-Purpose: use the [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) (an Obsidian plugin) to publish notes
+Purpose: use the [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) or [Github Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) (both are Obsidian plugins) to publish notes which was written in Obsidian
 
 Contents: trading journal
 
 ## Related
 
-[Documentation](https://dg-docs.ole.dev) of plugin for reference.
+For reference:
+- [Documentation website of Digital Garden plugin](https://dg-docs.ole.dev)
+- [Documentation website of Github Publisher plugin](https://obsidian-publisher.netlify.app/)
