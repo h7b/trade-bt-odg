@@ -6,8 +6,8 @@
 # Home Page
 
 Published url: 
-- [trade-bt.netlify.app (on Netlify)](https://tradebt.netlify.app)
-- [trade-bt.pages.dev (on Cloudflare Pages)](https://tradebt.pages.dev/)
+- [tradebt.netlify.app (on Netlify)](https://tradebt.netlify.app)
+- [tradebt.pages.dev (on Cloudflare Pages)](https://tradebt.pages.dev/)
 
 This website is generated from
 - [Template DigitalGarden](https://github.com/oleeskild/digitalgarden) when being deployed via Netlify
